@@ -1,11 +1,3 @@
-//
-//  chamber.cpp
-//  cc3k
-//
-//  Created by Libin Xue on 2017-07-18.
-//  Copyright © 2017 Libin Xue. All rights reserved.
-//
-
 #include "chamber.h"
 #include <cstdlib>
 
