@@ -1,3 +1,5 @@
+This project is created by me, Lee and Libin.
+
 no,so,ea,we,ne,nw,se,sw: moves the player character one block in the appropriate cardinal direction
 
 u (direction): uses the potion indicated by the direction (e.g. no, so, ea)
